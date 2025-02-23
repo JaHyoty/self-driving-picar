@@ -26,7 +26,7 @@ git clone https://github.com/sunfounder/vilib
 cd ~/vilib
 sudo python3 install.py 
 ```
-4. Run the self_driving_picar.py file to start the algorithm.</br>A web server should begin running from which you can see the PiCamera view and the terminal should show a map of the surroundings (empty for now). After pressing enter, the car will begin navigating.
+4. Download and run the [self_driving_picar.py](./self_driving_picar.py) file to start the algorithm.</br>A web server should begin running from which you can see the PiCamera view and the terminal should show a map of the surroundings (empty for now). After pressing enter, the car will begin navigating.
 
 
 ## 🚀 More
